@@ -1,2 +1,2 @@
-# Neurawork
-Hello world!
+#Neurawork
+Welcome to our Neural network project
