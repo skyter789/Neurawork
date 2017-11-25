@@ -1,2 +1,1 @@
-# Neurawork
-Hello world!
+авыфщашыв
